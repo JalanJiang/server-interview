@@ -1,8 +1,8 @@
 * [简介](README.md)
 * 算法与数据结构
   * [LeetCode 题解](http://jalan.space/leetcode-notebook)
-  * 数据结构
-  * 基础算法
+  * [数据结构](algorithm/data-struct/README.md)
+  * [基础算法](algorithm/al/README.md)
   * 其他
 * 面向对象
   * 设计模式
