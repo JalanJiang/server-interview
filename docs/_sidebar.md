@@ -5,7 +5,7 @@
   * [基础算法](algorithm/al/README.md)
   * 其他
 * 面向对象
-  * 设计模式
+  * [设计模式](design/pattern/README.md)
   * 面向对象思想
 * 数据库
   * SQL
