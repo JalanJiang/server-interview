@@ -61,9 +61,11 @@
   - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 - 已知一个单链表求倒数第 N 个节点：双指针，有种滑动窗口的意味
 - [x] [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
-- 旋转单链表
-- 翻转单链表
-- 翻转部分单链表
+- 旋转单链表：[61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/solution/chuan-zhen-yin-xian-by-liweiwei1419/)
+- 反转单链表：[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) 
+  - 🧐递归
+  - 迭代
+- 反转部分单链表：[92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 - 单链表排序
   - 归并排序
   - 插入排序
