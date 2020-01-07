@@ -67,8 +67,8 @@
   - 迭代
 - 反转部分单链表：[92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
 - 单链表排序
-  - 归并排序
-  - 插入排序
+  - 归并排序：🧐[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
+  - 插入排序：🧐[147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
 - 划分链表
 - 链表想加求和
 - 删除有序/无序链表中重复的元素
