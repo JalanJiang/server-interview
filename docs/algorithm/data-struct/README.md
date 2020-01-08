@@ -76,5 +76,10 @@
 - 删除链表中的重复的元素
   - [x] 有序链表：[83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
   - 无序链表：
-- 重排链表：[143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+- [x] 重排链表：[143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
 - [x] 🧐判断两个单链表（无环）是相交：[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+
+Tips:
+
+- 常用双指针、快慢指针的方法取某个特定节点
+- 不想反转链表可以用栈实现「反转效果」
