@@ -49,3 +49,13 @@ Tips:
 
 - 常用双指针、快慢指针的方法取某个特定节点
 - 不想反转链表可以用栈实现「反转效果」
+
+### 双向链表
+
+- 构建：前面插入
+
+### 循环链表
+
+### 其他题目
+
+- [x] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/submissions/)
