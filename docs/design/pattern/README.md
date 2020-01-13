@@ -1,3 +1,12 @@
+- [x] 策略模式
+- [x] 观察者模式
+- [x] 装饰者模式
+- [x] 工厂模式
+  - [x] 工厂方法
+  - [x] 抽象工厂
+- [x] 单件模式
+- [x] 命令模式
+
 ## 设计模式语言仓库
 
 - Python 设计模式：[faif/python-patterns](https://github.com/faif/python-patterns)
