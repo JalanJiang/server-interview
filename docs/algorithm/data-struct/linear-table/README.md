@@ -59,3 +59,24 @@ Tips:
 ### 其他题目
 
 - [x] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/submissions/)
+
+## 栈
+
+- [数据结构和算法面试题系列—栈](https://juejin.im/post/5b9c78cdf265da0ab915b5da)
+
+## 特点
+
+后进先出。
+
+- 后缀表达式
+- 函数递归
+
+## 基本操作
+
+- 压入 `push`
+- 弹出栈顶元素 `pop`
+- 取出栈顶元素 `peek`
+
+## 相关题目
+
+- [ ] [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
