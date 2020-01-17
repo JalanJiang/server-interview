@@ -62,11 +62,15 @@ Tips:
 
 ## 栈
 
+- [LeetCode 队列&栈](https://leetcode-cn.com/explore/learn/card/queue-stack/218/stack-last-in-first-out-data-structure/)
 - [数据结构和算法面试题系列—栈](https://juejin.im/post/5b9c78cdf265da0ab915b5da)
 
 ## 特点
 
-后进先出。
+- 后进先出
+- 不考虑排序，需要 `O(n)` 时间才能找到栈中最大或者最小的元素
+
+## 用途
 
 - 后缀表达式
 - 函数递归
@@ -83,3 +87,17 @@ Tips:
   - [x] [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 - 用栈模拟递归
   - [x] [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
+- [ ] 用两个队列实现栈 `p78`
+- [x] 🧐包含 Min 函数的栈 - [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
+  - 只让比栈顶小的元素入栈
+- 单调栈：[刷题笔记6（浅谈单调栈）](https://zhuanlan.zhihu.com/p/26465701)
+  - 递减栈
+    - [x] [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+
+## 队列
+
+- 先进后出
+  
+### 相关题目
+
+- [ ] 用两个栈实现队列 `p76`
