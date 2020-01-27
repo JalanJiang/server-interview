@@ -93,6 +93,8 @@ Tips:
 - 单调栈：[刷题笔记6（浅谈单调栈）](https://zhuanlan.zhihu.com/p/26465701)
   - 递减栈
     - [x] [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+- 其他
+  - [x] [331. 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 
 ## 队列
 
