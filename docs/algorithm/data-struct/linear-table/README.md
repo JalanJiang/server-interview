@@ -60,6 +60,8 @@ Tips:
 
 - [x] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/submissions/)
 
+----
+
 ## 栈
 
 - [LeetCode：队列&栈](https://leetcode-cn.com/explore/learn/card/queue-stack/218/stack-last-in-first-out-data-structure/)
@@ -103,6 +105,8 @@ Tips:
   - [x] [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)：递归或栈
 - [ ] 求出栈数目和出栈次序（涉及回溯）
 - [ ] 栈和深度优先搜索
+
+----
 
 ## 队列
 
