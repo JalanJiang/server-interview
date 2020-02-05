@@ -102,6 +102,7 @@ Tips:
 - 其他：
   - [x] [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)：递归或栈
 - [ ] 求出栈数目和出栈次序（涉及回溯）
+- [ ] 栈和深度优先搜索
 
 ## 队列
 
@@ -114,3 +115,4 @@ Tips:
 - 循环队列
   - [x] [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
   - [x] [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) 
+- [ ] 队列与广度优先搜索：
