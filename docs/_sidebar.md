@@ -3,6 +3,7 @@
   * [LeetCode 题解](http://jalan.space/leetcode-notebook)
   * [数据结构](algorithm/data-struct/README.md)
     * [线性表](algorithm/data-struct/linear-table/README.md)
+    * [散列表](algorithm/data-struct/hash-table/README.md)
   * [基础算法](algorithm/al/README.md)
   * 其他
 * 面向对象
