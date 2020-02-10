@@ -120,3 +120,4 @@ Tips:
   - [x] [622. 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue/)
   - [x] [641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/) 
 - [ ] 队列与广度优先搜索：
+  - [x] [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/): BFS 
