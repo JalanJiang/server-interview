@@ -101,6 +101,8 @@ Tips:
   - [ ] [946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)
 - 树相关：
   - [x] [331. 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+- 栈与深搜：
+  - [x] [133. 克隆图](https://leetcode-cn.com/problems/clone-graph/)：栈与深搜 + 队列与广搜
 - 其他：
   - [x] [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)：递归或栈
 - [ ] 求出栈数目和出栈次序（涉及回溯）
