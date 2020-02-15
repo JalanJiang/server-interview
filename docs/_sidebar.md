@@ -10,7 +10,7 @@
   * [设计模式](design/pattern/README.md)
   * 面向对象思想
 * 数据库
-  * SQL
+  * [SQL](db/sql/README.md)
   * MySQL
   * Redis
 * 工具
