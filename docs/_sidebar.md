@@ -5,7 +5,7 @@
     * [线性表](algorithm/data-struct/linear-table/README.md)
     * [散列表](algorithm/data-struct/hash-table/README.md)
     * 树
-      * [二叉树](algrithm/data-struct/tree/binary-tree/README.md)
+      * [二叉树](algorithm/data-struct/tree/binary-tree/README.md)
   * [基础算法](algorithm/al/README.md)
   * 其他
 * 面向对象
