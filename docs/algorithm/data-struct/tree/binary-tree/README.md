@@ -10,3 +10,4 @@
   - [x] 递归
   - [x] 🤔迭代（栈 + 反序）
 - [x] 👍[102. 二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)：自底向上/自顶向下
