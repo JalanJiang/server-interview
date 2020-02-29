@@ -11,3 +11,5 @@
   - [x] 🤔迭代（栈 + 反序）
 - [x] 👍[102. 二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)：自底向上/自顶向下
+- [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)：递归/迭代（队列，层级遍历）
+- [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)：递归
