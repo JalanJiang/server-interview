@@ -43,6 +43,14 @@
   - 筛选分组：使用 `HAVING` 子句
 - [x] [SQL Lesson 12: Order of execution of a Query](https://sqlbolt.com/lesson/select_queries_order_of_execution)
 
-### 写入
+### 增、改、删
 
-- [x] [SQL Lesson 13: Inserting rows]()
+- [x] [SQL Lesson 13: Inserting rows](https://sqlbolt.com/lesson/inserting_rows)
+  - `INSERT INTO mytable (column1, column2) VALUES (valu1, value2), (value1, value2);`
+- [x] [SQL Lesson 14: Updating rows](https://sqlbolt.com/lesson/updating_rows)
+- [x] [SQL Lesson 15: Deleting rows](https://sqlbolt.com/lesson/deleting_rows)
+  - `DELETE FROM mytable WHERE condition;`
+
+### 创建表
+
+- [x] [SQL Lesson 16: Creating tables](https://sqlbolt.com/lesson/creating_tables)
