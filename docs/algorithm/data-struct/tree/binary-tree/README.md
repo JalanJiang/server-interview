@@ -13,3 +13,4 @@
 - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)：自底向上/自顶向下
 - [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)：递归/迭代（队列，层级遍历）
 - [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)：递归
+- [x] 🤔[106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)：递归/中序遍历特征/后续遍历特征
