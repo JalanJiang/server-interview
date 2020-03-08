@@ -9,3 +9,4 @@
 ### 例题
 
 - [x] 🤔[98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)：多种解法（直观递归/中序遍历等）
+- [x] 🤔[173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)：如何用栈模拟递归过程
