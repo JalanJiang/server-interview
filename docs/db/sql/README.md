@@ -1,4 +1,4 @@
-## SQLBOLT
+## SQLBOLT：初级
 
 - https://sqlbolt.com/
 
@@ -54,3 +54,46 @@
 ### 创建表
 
 - [x] [SQL Lesson 16: Creating tables](https://sqlbolt.com/lesson/creating_tables)
+- [x] [SQL Lesson 17: Altering tables](https://sqlbolt.com/lesson/altering_tables) 
+  - 添加列：`ALTER TABLE my_table ADD column DataType OptionalTableConstraint DEFAULT default_value;`
+  - 移除列：`ALTER TABLE my_table DROP column;`
+  - 重命名：`ALTER TABLE my_table RENAME TO new_table_name;`
+- [x] [SQL Lesson 18: Dropping tables](https://sqlbolt.com/lesson/dropping_tables)
+  - `DROP TABLE IF EXISTS my_table;`
+  - `DELETE`：删除表中数据
+  - 如果有别的表依赖要删除的表，需要先移除依赖
+
+## SQLBOLT：中级
+
+### SQL Topic: Subqueries - 子查询
+
+> https://sqlbolt.com/topic/subqueries
+
+```sql
+SELECT *, …
+FROM mytable
+WHERE column
+    IN/NOT IN (SELECT another_column
+               FROM another_table);
+```
+
+### SQL Topic: Unions, Intersections & Exceptions
+
+> https://sqlbolt.com/topic/set_operations
+
+- `UNION` / `UNION ALL`：用户合并两个查询结果
+- 如果不使用 `ALL` 则会去除重复行
+
+```sql
+Select query with set operators
+SELECT column, another_column
+   FROM mytable
+UNION / UNION ALL / INTERSECT / EXCEPT
+SELECT other_column, yet_another_column
+   FROM another_table
+ORDER BY column DESC
+LIMIT n;
+```
+
+- `INTERSECT`：出现在两个结果集的行
+- `EXCEPT`：仅返回第一个结果集的行（顺序敏感）
