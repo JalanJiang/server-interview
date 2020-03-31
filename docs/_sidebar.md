@@ -7,6 +7,7 @@
     * 树
       * [二叉树](algorithm/data-struct/tree/binary-tree/README.md)
       * [二叉搜索树](algorithm/data-struct/tree/bst/README.md)
+      * [N 叉树](algorithm/data-struct/tree/n-ary/README.md)
   * [基础算法](algorithm/al/README.md)
   * 其他
 * 面向对象
