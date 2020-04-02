@@ -29,7 +29,8 @@
 
 - 设计哈希表：
   - [x] [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)
-  - [ ] [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)
+  - [x] 🤔[706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/)
 - [ ] 哈希集合
+  - [ ] [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)
 - [ ] 哈希映射
 - [ ] 设计键
